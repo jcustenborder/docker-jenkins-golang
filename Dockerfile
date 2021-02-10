@@ -1,5 +1,5 @@
 
-FROM golang:1.15.8-alpine
+FROM golang:1.15.8-buster
 
 MAINTAINER jcustenborder@gmail.com
 
